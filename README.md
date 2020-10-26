@@ -4,9 +4,16 @@
 My first program written in Java.
 
 ## Installation
-To use this program, make sure to have the newest JDK installed.
+To use this program, make sure to have the newest JDK installed. (JDK 15)
 
 [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+
+## Usage
+
+Run "Start.bat" or use the command:
+```
+java HelloJava.java
+```
 
 ## Code preview
 
